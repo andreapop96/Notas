@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompilationUnit BeginColumn="1" BeginLine="1" EndColumn="3" EndLine="28" FindBoundary="false"
+                 Image=""
+                 PackageName="notas"
+                 SingleLine="false"
+                 declarationsAreInDefaultPackage="false">
+   <PackageDeclaration BeginColumn="1" BeginLine="1" EndColumn="14" EndLine="1" FindBoundary="false"
+                       Image=""
+                       Name="notas"
+                       PackageNameImage="notas"
+                       SingleLine="true">
+      <Name BeginColumn="9" BeginLine="1" EndColumn="13" EndLine="1" FindBoundary="false"
+            Image="notas"
+            SingleLine="true"/>
+   </PackageDeclaration>
+   <ImportDeclaration BeginColumn="1" BeginLine="3" EndColumn="25" EndLine="3" FindBoundary="false"
+                      Image=""
+                      ImportOnDemand="false"
+                      ImportedName="java.util.Scanner"
+                      ImportedSimpleName="Scanner"
+                      PackageName="java.util"
+                      SingleLine="true"
+                      Static="false">
+      <Name BeginColumn="8" BeginLine="3" EndColumn="24" EndLine="3" FindBoundary="false"
+            Image="java.util.Scanner"
+            SingleLine="true"/>
+   </ImportDeclaration>
+   <TypeDeclaration BeginColumn="1" BeginLine="5" EndColumn="1" EndLine="28" FindBoundary="false"
+                    Image=""
+                    SingleLine="false">
+      <ClassOrInterfaceDeclaration Abstract="false" BeginColumn="8" BeginLine="5" BinaryName="" Default="false"
+                                   EndColumn="1"
+                                   EndLine="28"
+                                   Final="false"
+                                   FindBoundary="false"
+                                   Image="Notas"
+                                   Interface="false"
+                                   Local="false"
+                                   Modifiers="1"
+                                   Native="false"
+                                   Nested="false"
+                                   NonSealed="false"
+                                   PackagePrivate="false"
+                                   Private="false"
+                                   Protected="false"
+                                   Public="true"
+                                   Sealed="false"
+                                   SimpleName="Notas"
+                                   SingleLine="false"
+                                   Static="false"
+                                   Strictfp="false"
+                                   Synchronized="false"
+                                   Transient="false"
+                                   TypeKind="CLASS"
+                                   Volatile="false">
+         <ClassOrInterfaceBody AnonymousInnerClass="false" BeginColumn="20" BeginLine="5" EndColumn="1"
+                               EndLine="28"
+                               EnumChild="false"
+                               FindBoundary="false"
+                               Image=""
+                               SingleLine="false">
+            <ClassOrInterfaceBodyDeclaration AnonymousInnerClass="false" BeginColumn="1" BeginLine="7" EndColumn="1"
+                                             EndLine="27"
+                                             EnumChild="false"
+                                             FindBoundary="false"
+                                             Image=""
+                                             Kind="METHOD"
+                                             SingleLine="false">
+               <MethodDeclaration Abstract="false" Arity="1" BeginColumn="15" BeginLine="7" Default="false"
+                                  EndColumn="1"
+                                  EndLine="27"
+                                  Final="false"
+                                  FindBoundary="false"
+                                  Image=""
+                                  InterfaceMember="false"
+                                  Kind="METHOD"
+                                  MethodName="main"
+                                  Modifiers="17"
+                                  Name="main"
+                                  Native="false"
+                                  PackagePrivate="false"
+                                  Private="false"
+                                  Protected="false"
+                                  Public="true"
+                                  SingleLine="false"
+                                  Static="true"
+                                  Strictfp="false"
+                                  Synchronized="false"
+                                  SyntacticallyAbstract="false"
+                                  SyntacticallyPublic="true"
+                                  Transient="false"
+                                  Void="true"
+                                  Volatile="false">
+                  <ResultType BeginColumn="15" BeginLine="7" EndColumn="18" EndLine="7" FindBoundary="false"
+                              Image=""
+                              SingleLine="true"
+                              Void="true"
+                              returnsArray="false"/>
+                  <MethodDeclarator BeginColumn="20" BeginLine="7" EndColumn="38" EndLine="7" FindBoundary="false"
+                                    Image="main"
+                                    ParameterCount="1"
+                                    SingleLine="true">
+                     <FormalParameters BeginColumn="24" BeginLine="7" EndColumn="38" EndLine="7" FindBoundary="false"
+                                       Image=""
+                                       ParameterCount="1"
+                                       SingleLine="true"
+                                       Size="1">
+                        <FormalParameter Abstract="false" Array="true" ArrayDepth="1" BeginColumn="25" BeginLine="7"
+                                         Default="false"
+                                         EndColumn="37"
+                                         EndLine="7"
+                                         ExplicitReceiverParameter="false"
+                                         Final="false"
+                                         FindBoundary="false"
+                                         Image=""
+                                         Modifiers="0"
+                                         Native="false"
+                                         PackagePrivate="true"
+                                         Private="false"
+                                         Protected="false"
+                                         Public="false"
+                                         SingleLine="true"
+                                         Static="false"
+                                         Strictfp="false"
+                                         Synchronized="false"
+                                         Transient="false"
+                                         TypeInferred="false"
+                                         Varargs="false"
+                                         Volatile="false">
+                           <Type Array="true" ArrayDepth="1" ArrayType="true" BeginColumn="25" BeginLine="7"
+                                 EndColumn="32"
+                                 EndLine="7"
+                                 FindBoundary="false"
+                                 Image=""
+                                 SingleLine="true"
+                                 TypeImage="String">
+                              <ReferenceType Array="true" ArrayDepth="1" BeginColumn="25" BeginLine="7" EndColumn="32"
+                                             EndLine="7"
+                                             FindBoundary="false"
+                                             Image=""
+                                             SingleLine="true">
+                                 <ClassOrInterfaceType AnonymousClass="false" Array="true" ArrayDepth="1" BeginColumn="25"
+                                                       BeginLine="7"
+                                                       EndColumn="30"
+                                                       EndLine="7"
+                                                       FindBoundary="false"
+                                                       Image="String"
+                                                       ReferenceToClassSameCompilationUnit="false"
+                                                       SingleLine="true"/>
+                              </ReferenceType>
+                           </Type>
+                           <VariableDeclaratorId Array="false" ArrayDepth="0" ArrayType="true" BeginColumn="34" BeginLine="7"
+                                                 EndColumn="37"
+                                                 EndLine="7"
+                                                 ExceptionBlockParameter="false"
+                                                 ExplicitReceiverParameter="false"
+                                                 Field="false"
+                                                 Final="false"
+                                                 FindBoundary="false"
+                                                 ForeachVariable="false"
+                                                 FormalParameter="true"
+                                                 Image="args"
+                                                 LambdaParameter="false"
+                                                 LocalVariable="false"
+                                                 Name="args"
+                                                 PatternBinding="false"
+                                                 ResourceDeclaration="false"
+                                                 SingleLine="true"
+                                                 TypeInferred="false"
+                                                 VariableName="args"/>
+                        </FormalParameter>
+                     </FormalParameters>
+                  </MethodDeclarator>
+                  <Block BeginColumn="40" BeginLine="7" EndColumn="1" EndLine="27" FindBoundary="false"
+                         Image=""
+                         SingleLine="false"
+                         containsComment="false">
+                     <BlockStatement Allocation="true" BeginColumn="1" BeginLine="8" EndColumn="40" EndLine="8"
+                                     FindBoundary="false"
+                                     Image=""
+                                     SingleLine="true">
+                        <LocalVariableDeclaration Abstract="false" Array="false" ArrayDepth="0" BeginColumn="1" BeginLine="8"
+                                                  Default="false"
+                                                  EndColumn="39"
+                                                  EndLine="8"
+                                                  Final="false"
+                                                  FindBoundary="false"
+                                                  Image=""
+                                                  Modifiers="0"
+                                                  Native="false"
+                                                  PackagePrivate="true"
+                                                  Private="false"
+                                                  Protected="false"
+                                                  Public="false"
+                                                  SingleLine="true"
+                                                  Static="false"
+                                                  Strictfp="false"
+                                                  Synchronized="false"
+                                                  Transient="false"
+                                                  TypeInferred="false"
+                                                  VariableName="reader"
+                                                  Volatile="false">
+                           <Type Array="false" ArrayDepth="0" ArrayType="false" BeginColumn="1" BeginLine="8"
+                                 EndColumn="7"
+                                 EndLine="8"
+                                 FindBoundary="false"
+                                 Image=""
+                                 SingleLine="true"
+                                 TypeImage="Scanner">
+                              <ReferenceType Array="false" ArrayDepth="0" BeginColumn="1" BeginLine="8" EndColumn="7"
+                                             EndLine="8"
+                                             FindBoundary="false"
+                                             Image=""
+                                             SingleLine="true">
+                                 <ClassOrInterfaceType AnonymousClass="false" Array="false" ArrayDepth="0" BeginColumn="1"
+                                                       BeginLine="8"
+                                                       EndColumn="7"
+                                                       EndLine="8"
+                                                       FindBoundary="false"
+                                                       Image="Scanner"
+                                                       ReferenceToClassSameCompilationUnit="false"
+                                                       SingleLine="true"/>
+                              </ReferenceType>
+                           </Type>
+                           <VariableDeclarator BeginColumn="9" BeginLine="8" EndColumn="39" EndLine="8" FindBoundary="false"
+                                               Image=""
+                                               Initializer="true"
+                                               Name="reader"
+                                               SingleLine="true">
+                              <VariableDeclaratorId Array="false" ArrayDepth="0" ArrayType="false" BeginColumn="9" BeginLine="8"
+                                                    EndColumn="14"
+                                                    EndLine="8"
+                                                    ExceptionBlockParameter="false"
+                                                    ExplicitReceiverParameter="false"
+                                                    Field="false"
+                                                    Final="false"
+                                                    FindBoundary="false"
+                                                    ForeachVariable="false"
+                                                    FormalParameter="false"
+                                                    Image="reader"
+                                                    LambdaParameter="false"
+                                                    LocalVariable="true"
+                                                    Name="reader"
+                                                    PatternBinding="false"
+                                                    ResourceDeclaration="false"
+                                                    SingleLine="true"
+                                                    TypeInferred="false"
+                                                    VariableName="reader"/>
+                              <VariableInitializer BeginColumn="18" BeginLine="8" EndColumn="39" EndLine="8" FindBoundary="false"
+                                                   Image=""
+                                                   SingleLine="true">
+                                 <Expression BeginColumn="18" BeginLine="8" EndColumn="39" EndLine="8" FindBoundary="false"
+                                             Image=""
+                                             SingleLine="true"
+                                             StandAlonePrimitive="false">
+                                    <PrimaryExpression BeginColumn="18" BeginLine="8" EndColumn="39" EndLine="8" FindBoundary="false"
+                                                       Image=""
+                                                       SingleLine="true">
+                                       <PrimaryPrefix BeginColumn="18" BeginLine="8" EndColumn="39" EndLine="8" FindBoundary="false"
+                                                      Image=""
+                                                      SingleLine="true"
+                                                      SuperModifier="false"
+                                                      ThisModifier="false">
+                                          <AllocationExpression AnonymousClass="false" BeginColumn="18" BeginLine="8" EndColumn="39"
+                                                                EndLine="8"
+                                                                FindBoundary="false"
+                                                                Image=""
+                                                                SingleLine="true">
+                                             <ClassOrInterfaceType AnonymousClass="false" Array="false" ArrayDepth="0" BeginColumn="22"
+                                                                   BeginLine="8"
+                                                                   EndColumn="28"
+                                                                   EndLine="8"
+                                                                   FindBoundary="false"
+                                                                   Image="Scanner"
+                                                                   ReferenceToClassSameCompilationUnit="false"
+                                                                   SingleLine="true"/>
+                                             <Arguments ArgumentCount="1" BeginColumn="29" BeginLine="8" EndColumn="39" EndLine="8"
+                                                        FindBoundary="false"
+                                                        Image=""
+                                                        SingleLine="true"
+                                                        Size="1">
+                                                <ArgumentList BeginColumn="30" BeginLine="8" EndColumn="38" EndLine="8" FindBoundary="false"
+                                                              Image=""
+                                                              SingleLine="true"
+                                                              Size="1">
+                                                   <Expression BeginColumn="30" BeginLine="8" EndColumn="38" EndLine="8" FindBoundary="false"
+                                                               Image=""
+                                                               SingleLine="true"
+                                                               StandAlonePrimitive="false">
+                                                      <PrimaryExpression BeginColumn="30" BeginLine="8" EndColumn="38" EndLine="8" FindBoundary="false"
+                                                                         Image=""
+                                                                         SingleLine="true">
+                                                         <PrimaryPrefix BeginColumn="30" BeginLine="8" EndColumn="38" EndLine="8" FindBoundary="false"
+                                                                        Image=""
+                                                                        SingleLine="true"
+                                                                        SuperModifier="false"
+                                                                        ThisModifier="false">
+                                                            <Name BeginColumn="30" BeginLine="8" EndColumn="38" EndLine="8" FindBoundary="false"
+                                                                  Image="System.in"
+                                                                  SingleLine="true"/>
+                                                         </PrimaryPrefix>
+                                                      </PrimaryExpression>
+                                                   </Expression>
+                                                </ArgumentList>
+                                             </Arguments>
+                                          </AllocationExpression>
+                                       </PrimaryPrefix>
+                                    </PrimaryExpression>
+                                 </Expression>
+                              </VariableInitializer>
+                           </VariableDeclarator>
+                        </LocalVariableDeclaration>
+                     </BlockStatement>
+                     <BlockStatement Allocation="false" BeginColumn="1" BeginLine="9" EndColumn="10" EndLine="9"
+                                     FindBoundary="false"
+                                     Image=""
+                                     SingleLine="true">
+                        <LocalVariableDeclaration Abstract="false" Array="false" ArrayDepth="0" BeginColumn="1" BeginLine="9"
+                                                  Default="false"
+                                                  EndColumn="9"
+                                                  EndLine="9"
+                                                  Final="false"
+                                                  FindBoundary="false"
+                                                  Image=""
+                                                  Modifiers="0"
+                                                  Native="false"
+                                                  PackagePrivate="true"
+                                                  Private="false"
+                                                  Protected="false"
+                                                  Public="false"
+                                                  SingleLine="true"
+                                                  Static="false"
+                                                  Strictfp="false"
+                                                  Synchronized="false"
+                                                  Transient="false"
+                                                  TypeInferred="false"
+                                                  VariableName="n"
+                                                  Volatile="false">
+                           <Type Array="false" ArrayDepth="0" ArrayType="false" BeginColumn="1" BeginLine="9"
+                                 EndColumn="3"
+                                 EndLine="9"
+                                 FindBoundary="false"
+                                 Image=""
+                                 SingleLine="true"
+                                 TypeImage="int">
+                              <PrimitiveType Array="false" ArrayDepth="0" BeginColumn="1" BeginLine="9" Boolean="false"
+                                             EndColumn="3"
+                                             EndLine="9"
+                                             FindBoundary="false"
+                                             Image="int"
+                                             SingleLine="true"/>
+                           </Type>
+                           <VariableDeclarator BeginColumn="5" BeginLine="9" EndColumn="9" EndLine="9" FindBoundary="false"
+                                               Image=""
+                                               Initializer="true"
+                                               Name="n"
+                                               SingleLine="true">
+                              <VariableDeclaratorId Array="false" ArrayDepth="0" ArrayType="false" BeginColumn="5" BeginLine="9"
+                                                    EndColumn="5"
+                                                    EndLine="9"
+                                                    ExceptionBlockParameter="false"
+                                                    ExplicitReceiverParameter="false"
+                                                    Field="false"
+                                                    Final="false"
+                                                    FindBoundary="false"
+                                                    ForeachVariable="false"
+                                                    FormalParameter="false"
+                                                    Image="n"
+                                                    LambdaParameter="false"
+                                                    LocalVariable="true"
+                                                    Name="n"
+                                                    PatternBinding="false"
+                                                    ResourceDeclaration="false"
+                                                    SingleLine="true"
+                                                    TypeInferred="false"
+                                                    VariableName="n"/>
+                              <VariableInitializer BeginColumn="9" BeginLine="9" EndColumn="9" EndLine="9" FindBoundary="false"
+                                                   Image=""
+                                                   SingleLine="true">
+                                 <Expression BeginColumn="9" BeginLine="9" EndColumn="9" EndLine="9" FindBoundary="false"
+                                             Image=""
+                                             SingleLine="true"
+                                             StandAlonePrimitive="true">
+                                    <PrimaryExpression BeginColumn="9" BeginLine="9" EndColumn="9" EndLine="9" FindBoundary="false"
+                                                       Image=""
+                                                       SingleLine="true">
+                                       <PrimaryPrefix BeginColumn="9" BeginLine="9" EndColumn="9" EndLine="9" FindBoundary="false"
+                                                      Image=""
+                                                      SingleLine="true"
+                                                      SuperModifier="false"
+                                                      ThisModifier="false">
+                                          <Literal BeginColumn="9" BeginLine="9" CharLiteral="false" DoubleLiteral="false"
+                                                   EndColumn="9"
+                                                   EndLine="9"
+                                                   EscapedStringLiteral="0"
+                                                   FindBoundary="false"
+                                                   FloatLiteral="false"
+                                                   Image="0"
+                                                   IntLiteral="true"
+                                                   LongLiteral="false"
+                                                   SingleCharacterStringLiteral="false"
+                                                   SingleLine="true"
+                                                   StringLiteral="false"
+                                                   TextBlock="false"
+                                                   TextBlockContent="0"
+                                                   ValueAsDouble="NaN"
+                                                   ValueAsFloat="NaN"
+                                                   ValueAsInt="0"
+                                                   ValueAsLong="0"/>
+                                       </PrimaryPrefix>
+                                    </PrimaryExpression>
+                                 </Expression>
+                              </VariableInitializer>
+                           </VariableDeclarator>
+                        </LocalVariableDeclaration>
+                     </BlockStatement>
+                     <BlockStatement Allocation="false" BeginColumn="1" BeginLine="10" EndColumn="14" EndLine="10"
+                                     FindBoundary="false"
+                                     Image=""
+                                     SingleLine="true">
+                        <LocalVariableDeclaration Abstract="false" Array="false" ArrayDepth="0" BeginColumn="1" BeginLine="10"
+                                                  Default="false"
+                                                  EndColumn="13"
+                                                  EndLine="10"
+                                                  Final="false"
+                                                  FindBoundary="false"
+                                                  Image=""
+                                                  Modifiers="0"
+                                                  Native="false"
+                                                  PackagePrivate="true"
+                                                  Private="false"
+                                                  Protected="false"
+                                                  Public="false"
+                                                  SingleLine="true"
+                                                  Static="false"
+                                                  Strictfp="false"
+                                                  Synchronized="false"
+                                                  Transient="false"
+                                                  TypeInferred="false"
+                                                  VariableName="c"
+                                                  Volatile="false">
+                           <Type Array="false" ArrayDepth="0" ArrayType="false" BeginColumn="1" BeginLine="10"
+                                 EndColumn="6"
+                                 EndLine="10"
+                                 FindBoundary="false"
+                                 Image=""
+                                 SingleLine="true"
+                                 TypeImage="String">
+                              <ReferenceType Array="false" ArrayDepth="0" BeginColumn="1" BeginLine="10" EndColumn="6"
+                                             EndLine="10"
+                                             FindBoundary="false"
+                                             Image=""
+                                             SingleLine="true">
+                                 <ClassOrInterfaceType AnonymousClass="false" Array="false" ArrayDepth="0" BeginColumn="1"
+                                                       BeginLine="10"
+                                                       EndColumn="6"
+                                                       EndLine="10"
+                                                       FindBoundary="false"
+                                                       Image="String"
+                                                       ReferenceToClassSameCompilationUnit="false"
+                                                       SingleLine="true"/>
+                              </ReferenceType>
+                           </Type>
+                           <VariableDeclarator BeginColumn="8" BeginLine="10" EndColumn="13" EndLine="10" FindBoundary="false"
+                                               Image=""
+                                               Initializer="true"
+                                               Name="c"
+                                               SingleLine="true">
+                              <VariableDeclaratorId Array="false" ArrayDepth="0" ArrayType="false" BeginColumn="8" BeginLine="10"
+                                                    EndColumn="8"
+                                                    EndLine="10"
+                                                    ExceptionBlockParameter="false"
+                                                    ExplicitReceiverParameter="false"
+                                                    Field="false"
+                                                    Final="false"
+                                                    FindBoundary="false"
+                                                    ForeachVariable="false"
+                                                    FormalParameter="false"
+                                                    Image="c"
+                                                    LambdaParameter="false"
+                                                    LocalVariable="true"
+                                                    Name="c"
+                                                    PatternBinding="false"
+                                                    ResourceDeclaration="false"
+                                                    SingleLine="true"
+                                                    TypeInferred="false"
+                                                    VariableName="c"/>
+                              <VariableInitializer BeginColumn="12" BeginLine="10" EndColumn="13" EndLine="10"
+                                                   FindBoundary="false"
+                                                   Image=""
+                                                   SingleLine="true">
+                                 <Expression BeginColumn="12" BeginLine="10" EndColumn="13" EndLine="10"
+                                             FindBoundary="false"
+                                             Image=""
+                                             SingleLine="true"
+                                             StandAlonePrimitive="false">
+                                    <PrimaryExpression BeginColumn="12" BeginLine="10" EndColumn="13" EndLine="10"
+                                                       FindBoundary="false"
+                                                       Image=""
+                                                       SingleLine="true">
+                                       <PrimaryPrefix BeginColumn="12" BeginLine="10" EndColumn="13" EndLine="10"
+                                                      FindBoundary="false"
+                                                      Image=""
+                                                      SingleLine="true"
+                                                      SuperModifier="false"
+                                                      ThisModifier="false">
+                                          <Literal BeginColumn="12" BeginLine="10" CharLiteral="false" DoubleLiteral="false"
+                                                   EndColumn="13"
+                                                   EndLine="10"
+                                                   EscapedStringLiteral="&#34;&#34;"
+                                                   FindBoundary="false"
+                                                   FloatLiteral="false"
+                                                   Image="&#34;&#34;"
+                                                   IntLiteral="false"
+                                                   LongLiteral="false"
+                                                   SingleCharacterStringLiteral="false"
+                                                   SingleLine="true"
+                                                   StringLiteral="true"
+                                                   TextBlock="false"
+                                                   TextBlockContent="&#34;&#34;"
+                                                   ValueAsDouble="NaN"
+                                                   ValueAsFloat="NaN"
+                                                   ValueAsInt="0"
+                                                   ValueAsLong="0"/>
+                                       </PrimaryPrefix>
+                                    </PrimaryExpression>
+                                 </Expression>
+                              </VariableInitializer>
+                           </VariableDeclarator>
+                        </LocalVariableDeclaration>
+                     </BlockStatement>
+                     <BlockStatement Allocation="false" BeginColumn="1" BeginLine="11" EndColumn="64" EndLine="11"
+                                     FindBoundary="false"
+                                     Image=""
+                                     SingleLine="true">
+                        <Statement BeginColumn="1" BeginLine="11" EndColumn="64" EndLine="11" FindBoundary="false"
+                                   Image=""
+                                   SingleLine="true">
+                           <StatementExpression BeginColumn="1" BeginLine="11" EndColumn="63" EndLine="11" FindBoundary="false"
+                                                Image=""
+                                                SingleLine="true">
+                              <PrimaryExpression BeginColumn="1" BeginLine="11" EndColumn="63" EndLine="11" FindBoundary="false"
+                                                 Image=""
+                                                 SingleLine="true">
+                                 <PrimaryPrefix BeginColumn="1" BeginLine="11" EndColumn="18" EndLine="11" FindBoundary="false"
+                                                Image=""
+                                                SingleLine="true"
+                                                SuperModifier="false"
+                                                ThisModifier="false">
+                                    <Name BeginColumn="1" BeginLine="11" EndColumn="18" EndLine="11" FindBoundary="false"
+                                          Image="System.out.println"
+                                          SingleLine="true"/>
+                                 </PrimaryPrefix>
+                                 <PrimarySuffix ArgumentCount="1" Arguments="true" ArrayDereference="false" BeginColumn="19"
+                                                BeginLine="11"
+                                                EndColumn="63"
+                                                EndLine="11"
+                                                FindBoundary="false"
+                                                Image=""
+                                                SingleLine="true">
+                                    <Arguments ArgumentCount="1" BeginColumn="19" BeginLine="11" EndColumn="63" EndLine="11"
+                                               FindBoundary="false"
+                                               Image=""
+                                               SingleLine="true"
+                                               Size="1">
+                                       <ArgumentList BeginColumn="20" BeginLine="11" EndColumn="62" EndLine="11"
+                                                     FindBoundary="false"
+                                                     Image=""
+                                                     SingleLine="true"
+                                                     Size="1">
+                                          <Expression BeginColumn="20" BeginLine="11" EndColumn="62" EndLine="11"
+                                                      FindBoundary="false"
+                                                      Image=""
+                                                      SingleLine="true"
+                                                      StandAlonePrimitive="false">
+                                             <PrimaryExpression BeginColumn="20" BeginLine="11" EndColumn="62" EndLine="11"
+                                                                FindBoundary="false"
+                                                                Image=""
+                                                                SingleLine="true">
+                                                <PrimaryPrefix BeginColumn="20" BeginLine="11" EndColumn="62" EndLine="11"
+                                                               FindBoundary="false"
+                                                               Image=""
+                                                               SingleLine="true"
+                                                               SuperModifier="false"
+                                                               ThisModifier="false">
+                                                   <Literal BeginColumn="20" BeginLine="11" CharLiteral="false" DoubleLiteral="false"
+                                                            EndColumn="62"
+                                                            EndLine="11"
+                                                            EscapedStringLiteral="&#34;Introduzca el valor de una calificación: &#34;"
+                                                            FindBoundary="false"
+                                                            FloatLiteral="false"
+                                                            Image="&#34;Introduzca el valor de una calificación: &#34;"
+                                                            IntLiteral="false"
+                                                            LongLiteral="false"
+                                                            SingleCharacterStringLiteral="false"
+                                                            SingleLine="true"
+                                                            StringLiteral="true"
+                                                            TextBlock="false"
+                                                            TextBlockContent="&#34;Introduzca el valor de una calificación: &#34;"
+                                                            ValueAsDouble="NaN"
+                                                            ValueAsFloat="NaN"
+                                                            ValueAsInt="0"
+                                                            ValueAsLong="0"/>
+                                                </PrimaryPrefix>
+                                             </PrimaryExpression>
+                                          </Expression>
+                                       </ArgumentList>
+                                    </Arguments>
+                                 </PrimarySuffix>
+                              </PrimaryExpression>
+                           </StatementExpression>
+                        </Statement>
+                     </BlockStatement>
+                     <BlockStatement Allocation="false" BeginColumn="1" BeginLine="12" EndColumn="21" EndLine="12"
+                                     FindBoundary="false"
+                                     Image=""
+                                     SingleLine="true">
+                        <Statement BeginColumn="1" BeginLine="12" EndColumn="21" EndLine="12" FindBoundary="false"
+                                   Image=""
+                                   SingleLine="true">
+                           <StatementExpression BeginColumn="1" BeginLine="12" EndColumn="20" EndLine="12" FindBoundary="false"
+                                                Image=""
+                                                SingleLine="true">
+                              <PrimaryExpression BeginColumn="1" BeginLine="12" EndColumn="1" EndLine="12" FindBoundary="false"
+                                                 Image=""
+                                                 SingleLine="true">
+                                 <PrimaryPrefix BeginColumn="1" BeginLine="12" EndColumn="1" EndLine="12" FindBoundary="false"
+                                                Image=""
+                                                SingleLine="true"
+                                                SuperModifier="false"
+                                                ThisModifier="false">
+                                    <Name BeginColumn="1" BeginLine="12" EndColumn="1" EndLine="12" FindBoundary="false"
+                                          Image="n"
+                                          SingleLine="true"/>
+                                 </PrimaryPrefix>
+                              </PrimaryExpression>
+                              <AssignmentOperator BeginColumn="3" BeginLine="12" Compound="false" EndColumn="3" EndLine="12"
+                                                  FindBoundary="false"
+                                                  Image="="
+                                                  SingleLine="true"/>
+                              <Expression BeginColumn="5" BeginLine="12" EndColumn="20" EndLine="12" FindBoundary="false"
+                                          Image=""
+                                          SingleLine="true"
+                                          StandAlonePrimitive="false">
+                                 <PrimaryExpression BeginColumn="5" BeginLine="12" EndColumn="20" EndLine="12" FindBoundary="false"
+                                                    Image=""
+                                                    SingleLine="true">
+                                    <PrimaryPrefix BeginColumn="5" BeginLine="12" EndColumn="18" EndLine="12" FindBoundary="false"
+                                                   Image=""
+                                                   SingleLine="true"
+                                                   SuperModifier="false"
+                                                   ThisModifier="false">
+                                       <Name BeginColumn="5" BeginLine="12" EndColumn="18" EndLine="12" FindBoundary="false"
+                                             Image="reader.nextInt"
+                                             SingleLine="true"/>
+                                    </PrimaryPrefix>
+                                    <PrimarySuffix ArgumentCount="0" Arguments="true" ArrayDereference="false" BeginColumn="19"
+                                                   BeginLine="12"
+                                                   EndColumn="20"
+                                                   EndLine="12"
+                                                   FindBoundary="false"
+                                                   Image=""
+                                                   SingleLine="true">
+                                       <Arguments ArgumentCount="0" BeginColumn="19" BeginLine="12" EndColumn="20" EndLine="12"
+                                                  FindBoundary="false"
+                                                  Image=""
+                                                  SingleLine="true"
+                                                  Size="0"/>
+                                    </PrimarySuffix>
+                                 </PrimaryExpression>
+                              </Expression>
+                           </StatementExpression>
+                        </Statement>
+                     </BlockStatement>
+                     <BlockStatement Allocation="false" BeginColumn="1" BeginLine="14" EndColumn="61" EndLine="23"
+                                     FindBoundary="false"
+                                     Image=""
+                                     SingleLine="false">
+                        <Statement BeginColumn="1" BeginLine="14" EndColumn="61" EndLine="23" FindBoundary="false"
+                                   Image=""
+                                   SingleLine="false">
+                           <IfStatement BeginColumn="1" BeginLine="14" Else="true" EndColumn="61" EndLine="23"
+                                        FindBoundary="false"
+                                        Image=""
+                                        SingleLine="false">
+                              <Expression BeginColumn="5" BeginLine="14" EndColumn="19" EndLine="14" FindBoundary="false"
+                                          Image=""
+                                          SingleLine="true"
+                                          StandAlonePrimitive="false">
+                                 <ConditionalAndExpression BeginColumn="5" BeginLine="14" EndColumn="19" EndLine="14" FindBoundary="false"
+                                                           Image=""
+                                                           SingleLine="true">
+                                    <RelationalExpression BeginColumn="5" BeginLine="14" EndColumn="10" EndLine="14" FindBoundary="false"
+                                                          Image="&gt;="
+                                                          SingleLine="true">
+                                       <PrimaryExpression BeginColumn="5" BeginLine="14" EndColumn="5" EndLine="14" FindBoundary="false"
+                                                          Image=""
+                                                          SingleLine="true">
+                                          <PrimaryPrefix BeginColumn="5" BeginLine="14" EndColumn="5" EndLine="14" FindBoundary="false"
+                                                         Image=""
+                                                         SingleLine="true"
+                                                         SuperModifier="false"
+                                                         ThisModifier="false">
+                                             <Name BeginColumn="5" BeginLine="14" EndColumn="5" EndLine="14" FindBoundary="false"
+                                                   Image="n"
+                                                   SingleLine="true"/>
+                                          </PrimaryPrefix>
+                                       </PrimaryExpression>
+                                       <PrimaryExpression BeginColumn="10" BeginLine="14" EndColumn="10" EndLine="14"
+                                                          FindBoundary="false"
+                                                          Image=""
+                                                          SingleLine="true">
+                                          <PrimaryPrefix BeginColumn="10" BeginLine="14" EndColumn="10" EndLine="14"
+                                                         FindBoundary="false"
+                                                         Image=""
+                                                         SingleLine="true"
+                                                         SuperModifier="false"
+                                                         ThisModifier="false">
+                                             <Literal BeginColumn="10" BeginLine="14" CharLiteral="false" DoubleLiteral="false"
+                                                      EndColumn="10"
+                                                      EndLine="14"
+                                                      EscapedStringLiteral="0"
+                                                      FindBoundary="false"
+                                                      FloatLiteral="false"
+                                                      Image="0"
+                                                      IntLiteral="true"
+                                                      LongLiteral="false"
+                                                      SingleCharacterStringLiteral="false"
+                                                      SingleLine="true"
+                                                      StringLiteral="false"
+                                                      TextBlock="false"
+                                                      TextBlockContent="0"
+                                                      ValueAsDouble="NaN"
+                                                      ValueAsFloat="NaN"
+                                                      ValueAsInt="0"
+                                                      ValueAsLong="0"/>
+                                          </PrimaryPrefix>
+                                       </PrimaryExpression>
+                                    </RelationalExpression>
+                                    <RelationalExpression BeginColumn="15" BeginLine="14" EndColumn="19" EndLine="14"
+                                                          FindBoundary="false"
+                                                          Image="&lt;"
+                                                          SingleLine="true">
+                                       <PrimaryExpression BeginColumn="15" BeginLine="14" EndColumn="15" EndLine="14"
+                                                          FindBoundary="false"
+                                                          Image=""
+                                                          SingleLine="true">
+                                          <PrimaryPrefix BeginColumn="15" BeginLine="14" EndColumn="15" EndLine="14"
+                                                         FindBoundary="false"
+                                                         Image=""
+                                                         SingleLine="true"
+                                                         SuperModifier="false"
+                                                         ThisModifier="false">
+                                             <Name BeginColumn="15" BeginLine="14" EndColumn="15" EndLine="14"
+                                                   FindBoundary="false"
+                                                   Image="n"
+                                                   SingleLine="true"/>
+                                          </PrimaryPrefix>
+                                       </PrimaryExpression>
+                                       <PrimaryExpression BeginColumn="19" BeginLine="14" EndColumn="19" EndLine="14"
+                                                          FindBoundary="false"
+                                                          Image=""
+                                                          SingleLine="true">
+                                          <PrimaryPrefix BeginColumn="19" BeginLine="14" EndColumn="19" EndLine="14"
+                                                         FindBoundary="false"
+                                                         Image=""
+                                                         SingleLine="true"
+                                                         SuperModifier="false"
+                                                         ThisModifier="false">
+                                             <Literal BeginColumn="19" BeginLine="14" CharLiteral="false" DoubleLiteral="false"
+                                                      EndColumn="19"
+                                                      EndLine="14"
+                                                      EscapedStringLiteral="5"
+                                                      FindBoundary="false"
+                                                      FloatLiteral="false"
+                                                      Image="5"
+                                                      IntLiteral="true"
+                                                      LongLiteral="false"
+                                                      SingleCharacterStringLiteral="false"
+                                                      SingleLine="true"
+                                                      StringLiteral="false"
+                                                      TextBlock="false"
+                                                      TextBlockContent="5"
+                                                      ValueAsDouble="NaN"
+                                                      ValueAsFloat="NaN"
+                                                      ValueAsInt="5"
+                                                      ValueAsLong="5"/>
+                                          </PrimaryPrefix>
+                                       </PrimaryExpression>
+                                    </RelationalExpression>
+                                 </ConditionalAndExpression>
+                              </Expression>
+                              <Statement BeginColumn="1" BeginLine="15" EndColumn="15" EndLine="15" FindBoundary="false"
+                                         Image=""
+                                         SingleLine="true">
+                                 <StatementExpression BeginColumn="1" BeginLine="15" EndColumn="14" EndLine="15" FindBoundary="false"
+                                                      Image=""
+                                                      SingleLine="true">
+                                    <PrimaryExpression BeginColumn="1" BeginLine="15" EndColumn="1" EndLine="15" FindBoundary="false"
+                                                       Image=""
+                                                       SingleLine="true">
+                                       <PrimaryPrefix BeginColumn="1" BeginLine="15" EndColumn="1" EndLine="15" FindBoundary="false"
+                                                      Image=""
+                                                      SingleLine="true"
+                                                      SuperModifier="false"
+                                                      ThisModifier="false">
+                                          <Name BeginColumn="1" BeginLine="15" EndColumn="1" EndLine="15" FindBoundary="false"
+                                                Image="c"
+                                                SingleLine="true"/>
+                                       </PrimaryPrefix>
+                                    </PrimaryExpression>
+                                    <AssignmentOperator BeginColumn="3" BeginLine="15" Compound="false" EndColumn="3" EndLine="15"
+                                                        FindBoundary="false"
+                                                        Image="="
+                                                        SingleLine="true"/>
+                                    <Expression BeginColumn="5" BeginLine="15" EndColumn="14" EndLine="15" FindBoundary="false"
+                                                Image=""
+                                                SingleLine="true"
+                                                StandAlonePrimitive="false">
+                                       <PrimaryExpression BeginColumn="5" BeginLine="15" EndColumn="14" EndLine="15" FindBoundary="false"
+                                                          Image=""
+                                                          SingleLine="true">
+                                          <PrimaryPrefix BeginColumn="5" BeginLine="15" EndColumn="14" EndLine="15" FindBoundary="false"
+                                                         Image=""
+                                                         SingleLine="true"
+                                                         SuperModifier="false"
+                                                         ThisModifier="false">
+                                             <Literal BeginColumn="5" BeginLine="15" CharLiteral="false" DoubleLiteral="false"
+                                                      EndColumn="14"
+                                                      EndLine="15"
+                                                      EscapedStringLiteral="&#34;Suspenso&#34;"
+                                                      FindBoundary="false"
+                                                      FloatLiteral="false"
+                                                      Image="&#34;Suspenso&#34;"
+                                                      IntLiteral="false"
+                                                      LongLiteral="false"
+                                                      SingleCharacterStringLiteral="false"
+                                                      SingleLine="true"
+                                                      StringLiteral="true"
+                                                      TextBlock="false"
+                                                      TextBlockContent="&#34;Suspenso&#34;"
+                                                      ValueAsDouble="NaN"
+                                                      ValueAsFloat="NaN"
+                                                      ValueAsInt="0"
+                                                      ValueAsLong="0"/>
+                                          </PrimaryPrefix>
+                                       </PrimaryExpression>
+                                    </Expression>
+                                 </StatementExpression>
+                              </Statement>
+                              <Statement BeginColumn="6" BeginLine="16" EndColumn="61" EndLine="23" FindBoundary="false"
+                                         Image=""
+                                         SingleLine="false">
+                                 <IfStatement BeginColumn="6" BeginLine="16" Else="true" EndColumn="61" EndLine="23"
+                                              FindBoundary="false"
+                                              Image=""
+                                              SingleLine="false">
+                                    <Expression BeginColumn="10" BeginLine="16" EndColumn="24" EndLine="16"
+                                                FindBoundary="false"
+                                                Image=""
+                                                SingleLine="true"
+                                                StandAlonePrimitive="false">
+                                       <ConditionalAndExpression BeginColumn="10" BeginLine="16" EndColumn="24" EndLine="16"
+                                                                 FindBoundary="false"
+                                                                 Image=""
+                                                                 SingleLine="true">
+                                          <RelationalExpression BeginColumn="10" BeginLine="16" EndColumn="15" EndLine="16"
+                                                                FindBoundary="false"
+                                                                Image="&gt;="
+                                                                SingleLine="true">
+                                             <PrimaryExpression BeginColumn="10" BeginLine="16" EndColumn="10" EndLine="16"
+                                                                FindBoundary="false"
+                                                                Image=""
+                                                                SingleLine="true">
+                                                <PrimaryPrefix BeginColumn="10" BeginLine="16" EndColumn="10" EndLine="16"
+                                                               FindBoundary="false"
+                                                               Image=""
+                                                               SingleLine="true"
+                                                               SuperModifier="false"
+                                                               ThisModifier="false">
+                                                   <Name BeginColumn="10" BeginLine="16" EndColumn="10" EndLine="16"
+                                                         FindBoundary="false"
+                                                         Image="n"
+                                                         SingleLine="true"/>
+                                                </PrimaryPrefix>
+                                             </PrimaryExpression>
+                                             <PrimaryExpression BeginColumn="15" BeginLine="16" EndColumn="15" EndLine="16"
+                                                                FindBoundary="false"
+                                                                Image=""
+                                                                SingleLine="true">
+                                                <PrimaryPrefix BeginColumn="15" BeginLine="16" EndColumn="15" EndLine="16"
+                                                               FindBoundary="false"
+                                                               Image=""
+                                                               SingleLine="true"
+                                                               SuperModifier="false"
+                                                               ThisModifier="false">
+                                                   <Literal BeginColumn="15" BeginLine="16" CharLiteral="false" DoubleLiteral="false"
+                                                            EndColumn="15"
+                                                            EndLine="16"
+                                                            EscapedStringLiteral="5"
+                                                            FindBoundary="false"
+                                                            FloatLiteral="false"
+                                                            Image="5"
+                                                            IntLiteral="true"
+                                                            LongLiteral="false"
+                                                            SingleCharacterStringLiteral="false"
+                                                            SingleLine="true"
+                                                            StringLiteral="false"
+                                                            TextBlock="false"
+                                                            TextBlockContent="5"
+                                                            ValueAsDouble="NaN"
+                                                            ValueAsFloat="NaN"
+                                                            ValueAsInt="5"
+                                                            ValueAsLong="5"/>
+                                                </PrimaryPrefix>
+                                             </PrimaryExpression>
+                                          </RelationalExpression>
+                                          <RelationalExpression BeginColumn="20" BeginLine="16" EndColumn="24" EndLine="16"
+                                                                FindBoundary="false"
+                                                                Image="&lt;"
+                                                                SingleLine="true">
+                                             <PrimaryExpression BeginColumn="20" BeginLine="16" EndColumn="20" EndLine="16"
+                                                                FindBoundary="false"
+                                                                Image=""
+                                                                SingleLine="true">
+                                                <PrimaryPrefix BeginColumn="20" BeginLine="16" EndColumn="20" EndLine="16"
+                                                               FindBoundary="false"
+                                                               Image=""
+                                                               SingleLine="true"
+                                                               SuperModifier="false"
+                                                               ThisModifier="false">
+                                                   <Name BeginColumn="20" BeginLine="16" EndColumn="20" EndLine="16"
+                                                         FindBoundary="false"
+                                                         Image="n"
+                                                         SingleLine="true"/>
+                                                </PrimaryPrefix>
+                                             </PrimaryExpression>
+                                             <PrimaryExpression BeginColumn="24" BeginLine="16" EndColumn="24" EndLine="16"
+                                                                FindBoundary="false"
+                                                                Image=""
+                                                                SingleLine="true">
+                                                <PrimaryPrefix BeginColumn="24" BeginLine="16" EndColumn="24" EndLine="16"
+                                                               FindBoundary="false"
+                                                               Image=""
+                                                               SingleLine="true"
+                                                               SuperModifier="false"
+                                                               ThisModifier="false">
+                                                   <Literal BeginColumn="24" BeginLine="16" CharLiteral="false" DoubleLiteral="false"
+                                                            EndColumn="24"
+                                                            EndLine="16"
+                                                            EscapedStringLiteral="7"
+                                                            FindBoundary="false"
+                                                            FloatLiteral="false"
+                                                            Image="7"
+                                                            IntLiteral="true"
+                                                            LongLiteral="false"
+                                                            SingleCharacterStringLiteral="false"
+                                                            SingleLine="true"
+                                                            StringLiteral="false"
+                                                            TextBlock="false"
+                                                            TextBlockContent="7"
+                                                            ValueAsDouble="NaN"
+                                                            ValueAsFloat="NaN"
+                                                            ValueAsInt="7"
+                                                            ValueAsLong="7"/>
+                                                </PrimaryPrefix>
+                                             </PrimaryExpression>
+                                          </RelationalExpression>
+                                       </ConditionalAndExpression>
+                                    </Expression>
+                                    <Statement BeginColumn="1" BeginLine="17" EndColumn="15" EndLine="17" FindBoundary="false"
+                                               Image=""
+                                               SingleLine="true">
+                                       <StatementExpression BeginColumn="1" BeginLine="17" EndColumn="14" EndLine="17" FindBoundary="false"
+                                                            Image=""
+                                                            SingleLine="true">
+                                          <PrimaryExpression BeginColumn="1" BeginLine="17" EndColumn="1" EndLine="17" FindBoundary="false"
+                                                             Image=""
+                                                             SingleLine="true">
+                                             <PrimaryPrefix BeginColumn="1" BeginLine="17" EndColumn="1" EndLine="17" FindBoundary="false"
+                                                            Image=""
+                                                            SingleLine="true"
+                                                            SuperModifier="false"
+                                                            ThisModifier="false">
+                                                <Name BeginColumn="1" BeginLine="17" EndColumn="1" EndLine="17" FindBoundary="false"
+                                                      Image="c"
+                                                      SingleLine="true"/>
+                                             </PrimaryPrefix>
+                                          </PrimaryExpression>
+                                          <AssignmentOperator BeginColumn="3" BeginLine="17" Compound="false" EndColumn="3" EndLine="17"
+                                                              FindBoundary="false"
+                                                              Image="="
+                                                              SingleLine="true"/>
+                                          <Expression BeginColumn="5" BeginLine="17" EndColumn="14" EndLine="17" FindBoundary="false"
+                                                      Image=""
+                                                      SingleLine="true"
+                                                      StandAlonePrimitive="false">
+                                             <PrimaryExpression BeginColumn="5" BeginLine="17" EndColumn="14" EndLine="17" FindBoundary="false"
+                                                                Image=""
+                                                                SingleLine="true">
+                                                <PrimaryPrefix BeginColumn="5" BeginLine="17" EndColumn="14" EndLine="17" FindBoundary="false"
+                                                               Image=""
+                                                               SingleLine="true"
+                                                               SuperModifier="false"
+                                                               ThisModifier="false">
+                                                   <Literal BeginColumn="5" BeginLine="17" CharLiteral="false" DoubleLiteral="false"
+                                                            EndColumn="14"
+                                                            EndLine="17"
+                                                            EscapedStringLiteral="&#34;Aprobado&#34;"
+                                                            FindBoundary="false"
+                                                            FloatLiteral="false"
+                                                            Image="&#34;Aprobado&#34;"
+                                                            IntLiteral="false"
+                                                            LongLiteral="false"
+                                                            SingleCharacterStringLiteral="false"
+                                                            SingleLine="true"
+                                                            StringLiteral="true"
+                                                            TextBlock="false"
+                                                            TextBlockContent="&#34;Aprobado&#34;"
+                                                            ValueAsDouble="NaN"
+                                                            ValueAsFloat="NaN"
+                                                            ValueAsInt="0"
+                                                            ValueAsLong="0"/>
+                                                </PrimaryPrefix>
+                                             </PrimaryExpression>
+                                          </Expression>
+                                       </StatementExpression>
+                                    </Statement>
+                                    <Statement BeginColumn="6" BeginLine="18" EndColumn="61" EndLine="23" FindBoundary="false"
+                                               Image=""
+                                               SingleLine="false">
+                                       <IfStatement BeginColumn="6" BeginLine="18" Else="true" EndColumn="61" EndLine="23"
+                                                    FindBoundary="false"
+                                                    Image=""
+                                                    SingleLine="false">
+                                          <Expression BeginColumn="10" BeginLine="18" EndColumn="23" EndLine="18"
+                                                      FindBoundary="false"
+                                                      Image=""
+                                                      SingleLine="true"
+                                                      StandAlonePrimitive="false">
+                                             <ConditionalAndExpression BeginColumn="10" BeginLine="18" EndColumn="23" EndLine="18"
+                                                                       FindBoundary="false"
+                                                                       Image=""
+                                                                       SingleLine="true">
+                                                <RelationalExpression BeginColumn="10" BeginLine="18" EndColumn="15" EndLine="18"
+                                                                      FindBoundary="false"
+                                                                      Image="&gt;="
+                                                                      SingleLine="true">
+                                                   <PrimaryExpression BeginColumn="10" BeginLine="18" EndColumn="10" EndLine="18"
+                                                                      FindBoundary="false"
+                                                                      Image=""
+                                                                      SingleLine="true">
+                                                      <PrimaryPrefix BeginColumn="10" BeginLine="18" EndColumn="10" EndLine="18"
+                                                                     FindBoundary="false"
+                                                                     Image=""
+                                                                     SingleLine="true"
+                                                                     SuperModifier="false"
+                                                                     ThisModifier="false">
+                                                         <Name BeginColumn="10" BeginLine="18" EndColumn="10" EndLine="18"
+                                                               FindBoundary="false"
+                                                               Image="n"
+                                                               SingleLine="true"/>
+                                                      </PrimaryPrefix>
+                                                   </PrimaryExpression>
+                                                   <PrimaryExpression BeginColumn="15" BeginLine="18" EndColumn="15" EndLine="18"
+                                                                      FindBoundary="false"
+                                                                      Image=""
+                                                                      SingleLine="true">
+                                                      <PrimaryPrefix BeginColumn="15" BeginLine="18" EndColumn="15" EndLine="18"
+                                                                     FindBoundary="false"
+                                                                     Image=""
+                                                                     SingleLine="true"
+                                                                     SuperModifier="false"
+                                                                     ThisModifier="false">
+                                                         <Literal BeginColumn="15" BeginLine="18" CharLiteral="false" DoubleLiteral="false"
+                                                                  EndColumn="15"
+                                                                  EndLine="18"
+                                                                  EscapedStringLiteral="7"
+                                                                  FindBoundary="false"
+                                                                  FloatLiteral="false"
+                                                                  Image="7"
+                                                                  IntLiteral="true"
+                                                                  LongLiteral="false"
+                                                                  SingleCharacterStringLiteral="false"
+                                                                  SingleLine="true"
+                                                                  StringLiteral="false"
+                                                                  TextBlock="false"
+                                                                  TextBlockContent="7"
+                                                                  ValueAsDouble="NaN"
+                                                                  ValueAsFloat="NaN"
+                                                                  ValueAsInt="7"
+                                                                  ValueAsLong="7"/>
+                                                      </PrimaryPrefix>
+                                                   </PrimaryExpression>
+                                                </RelationalExpression>
+                                                <RelationalExpression BeginColumn="20" BeginLine="18" EndColumn="23" EndLine="18"
+                                                                      FindBoundary="false"
+                                                                      Image="&lt;"
+                                                                      SingleLine="true">
+                                                   <PrimaryExpression BeginColumn="20" BeginLine="18" EndColumn="20" EndLine="18"
+                                                                      FindBoundary="false"
+                                                                      Image=""
+                                                                      SingleLine="true">
+                                                      <PrimaryPrefix BeginColumn="20" BeginLine="18" EndColumn="20" EndLine="18"
+                                                                     FindBoundary="false"
+                                                                     Image=""
+                                                                     SingleLine="true"
+                                                                     SuperModifier="false"
+                                                                     ThisModifier="false">
+                                                         <Name BeginColumn="20" BeginLine="18" EndColumn="20" EndLine="18"
+                                                               FindBoundary="false"
+                                                               Image="n"
+                                                               SingleLine="true"/>
+                                                      </PrimaryPrefix>
+                                                   </PrimaryExpression>
+                                                   <PrimaryExpression BeginColumn="23" BeginLine="18" EndColumn="23" EndLine="18"
+                                                                      FindBoundary="false"
+                                                                      Image=""
+                                                                      SingleLine="true">
+                                                      <PrimaryPrefix BeginColumn="23" BeginLine="18" EndColumn="23" EndLine="18"
+                                                                     FindBoundary="false"
+                                                                     Image=""
+                                                                     SingleLine="true"
+                                                                     SuperModifier="false"
+                                                                     ThisModifier="false">
+                                                         <Literal BeginColumn="23" BeginLine="18" CharLiteral="false" DoubleLiteral="false"
+                                                                  EndColumn="23"
+                                                                  EndLine="18"
+                                                                  EscapedStringLiteral="9"
+                                                                  FindBoundary="false"
+                                                                  FloatLiteral="false"
+                                                                  Image="9"
+                                                                  IntLiteral="true"
+                                                                  LongLiteral="false"
+                                                                  SingleCharacterStringLiteral="false"
+                                                                  SingleLine="true"
+                                                                  StringLiteral="false"
+                                                                  TextBlock="false"
+                                                                  TextBlockContent="9"
+                                                                  ValueAsDouble="NaN"
+                                                                  ValueAsFloat="NaN"
+                                                                  ValueAsInt="9"
+                                                                  ValueAsLong="9"/>
+                                                      </PrimaryPrefix>
+                                                   </PrimaryExpression>
+                                                </RelationalExpression>
+                                             </ConditionalAndExpression>
+                                          </Expression>
+                                          <Statement BeginColumn="1" BeginLine="19" EndColumn="14" EndLine="19" FindBoundary="false"
+                                                     Image=""
+                                                     SingleLine="true">
+                                             <StatementExpression BeginColumn="1" BeginLine="19" EndColumn="13" EndLine="19" FindBoundary="false"
+                                                                  Image=""
+                                                                  SingleLine="true">
+                                                <PrimaryExpression BeginColumn="1" BeginLine="19" EndColumn="1" EndLine="19" FindBoundary="false"
+                                                                   Image=""
+                                                                   SingleLine="true">
+                                                   <PrimaryPrefix BeginColumn="1" BeginLine="19" EndColumn="1" EndLine="19" FindBoundary="false"
+                                                                  Image=""
+                                                                  SingleLine="true"
+                                                                  SuperModifier="false"
+                                                                  ThisModifier="false">
+                                                      <Name BeginColumn="1" BeginLine="19" EndColumn="1" EndLine="19" FindBoundary="false"
+                                                            Image="c"
+                                                            SingleLine="true"/>
+                                                   </PrimaryPrefix>
+                                                </PrimaryExpression>
+                                                <AssignmentOperator BeginColumn="3" BeginLine="19" Compound="false" EndColumn="3" EndLine="19"
+                                                                    FindBoundary="false"
+                                                                    Image="="
+                                                                    SingleLine="true"/>
+                                                <Expression BeginColumn="5" BeginLine="19" EndColumn="13" EndLine="19" FindBoundary="false"
+                                                            Image=""
+                                                            SingleLine="true"
+                                                            StandAlonePrimitive="false">
+                                                   <PrimaryExpression BeginColumn="5" BeginLine="19" EndColumn="13" EndLine="19" FindBoundary="false"
+                                                                      Image=""
+                                                                      SingleLine="true">
+                                                      <PrimaryPrefix BeginColumn="5" BeginLine="19" EndColumn="13" EndLine="19" FindBoundary="false"
+                                                                     Image=""
+                                                                     SingleLine="true"
+                                                                     SuperModifier="false"
+                                                                     ThisModifier="false">
+                                                         <Literal BeginColumn="5" BeginLine="19" CharLiteral="false" DoubleLiteral="false"
+                                                                  EndColumn="13"
+                                                                  EndLine="19"
+                                                                  EscapedStringLiteral="&#34;Notable&#34;"
+                                                                  FindBoundary="false"
+                                                                  FloatLiteral="false"
+                                                                  Image="&#34;Notable&#34;"
+                                                                  IntLiteral="false"
+                                                                  LongLiteral="false"
+                                                                  SingleCharacterStringLiteral="false"
+                                                                  SingleLine="true"
+                                                                  StringLiteral="true"
+                                                                  TextBlock="false"
+                                                                  TextBlockContent="&#34;Notable&#34;"
+                                                                  ValueAsDouble="NaN"
+                                                                  ValueAsFloat="NaN"
+                                                                  ValueAsInt="0"
+                                                                  ValueAsLong="0"/>
+                                                      </PrimaryPrefix>
+                                                   </PrimaryExpression>
+                                                </Expression>
+                                             </StatementExpression>
+                                          </Statement>
+                                          <Statement BeginColumn="6" BeginLine="20" EndColumn="61" EndLine="23" FindBoundary="false"
+                                                     Image=""
+                                                     SingleLine="false">
+                                             <IfStatement BeginColumn="6" BeginLine="20" Else="true" EndColumn="61" EndLine="23"
+                                                          FindBoundary="false"
+                                                          Image=""
+                                                          SingleLine="false">
+                                                <Expression BeginColumn="10" BeginLine="20" EndColumn="26" EndLine="20"
+                                                            FindBoundary="false"
+                                                            Image=""
+                                                            SingleLine="true"
+                                                            StandAlonePrimitive="false">
+                                                   <ConditionalAndExpression BeginColumn="10" BeginLine="20" EndColumn="26" EndLine="20"
+                                                                             FindBoundary="false"
+                                                                             Image=""
+                                                                             SingleLine="true">
+                                                      <RelationalExpression BeginColumn="10" BeginLine="20" EndColumn="15" EndLine="20"
+                                                                            FindBoundary="false"
+                                                                            Image="&gt;="
+                                                                            SingleLine="true">
+                                                         <PrimaryExpression BeginColumn="10" BeginLine="20" EndColumn="10" EndLine="20"
+                                                                            FindBoundary="false"
+                                                                            Image=""
+                                                                            SingleLine="true">
+                                                            <PrimaryPrefix BeginColumn="10" BeginLine="20" EndColumn="10" EndLine="20"
+                                                                           FindBoundary="false"
+                                                                           Image=""
+                                                                           SingleLine="true"
+                                                                           SuperModifier="false"
+                                                                           ThisModifier="false">
+                                                               <Name BeginColumn="10" BeginLine="20" EndColumn="10" EndLine="20"
+                                                                     FindBoundary="false"
+                                                                     Image="n"
+                                                                     SingleLine="true"/>
+                                                            </PrimaryPrefix>
+                                                         </PrimaryExpression>
+                                                         <PrimaryExpression BeginColumn="15" BeginLine="20" EndColumn="15" EndLine="20"
+                                                                            FindBoundary="false"
+                                                                            Image=""
+                                                                            SingleLine="true">
+                                                            <PrimaryPrefix BeginColumn="15" BeginLine="20" EndColumn="15" EndLine="20"
+                                                                           FindBoundary="false"
+                                                                           Image=""
+                                                                           SingleLine="true"
+                                                                           SuperModifier="false"
+                                                                           ThisModifier="false">
+                                                               <Literal BeginColumn="15" BeginLine="20" CharLiteral="false" DoubleLiteral="false"
+                                                                        EndColumn="15"
+                                                                        EndLine="20"
+                                                                        EscapedStringLiteral="9"
+                                                                        FindBoundary="false"
+                                                                        FloatLiteral="false"
+                                                                        Image="9"
+                                                                        IntLiteral="true"
+                                                                        LongLiteral="false"
+                                                                        SingleCharacterStringLiteral="false"
+                                                                        SingleLine="true"
+                                                                        StringLiteral="false"
+                                                                        TextBlock="false"
+                                                                        TextBlockContent="9"
+                                                                        ValueAsDouble="NaN"
+                                                                        ValueAsFloat="NaN"
+                                                                        ValueAsInt="9"
+                                                                        ValueAsLong="9"/>
+                                                            </PrimaryPrefix>
+                                                         </PrimaryExpression>
+                                                      </RelationalExpression>
+                                                      <RelationalExpression BeginColumn="20" BeginLine="20" EndColumn="26" EndLine="20"
+                                                                            FindBoundary="false"
+                                                                            Image="&lt;="
+                                                                            SingleLine="true">
+                                                         <PrimaryExpression BeginColumn="20" BeginLine="20" EndColumn="20" EndLine="20"
+                                                                            FindBoundary="false"
+                                                                            Image=""
+                                                                            SingleLine="true">
+                                                            <PrimaryPrefix BeginColumn="20" BeginLine="20" EndColumn="20" EndLine="20"
+                                                                           FindBoundary="false"
+                                                                           Image=""
+                                                                           SingleLine="true"
+                                                                           SuperModifier="false"
+                                                                           ThisModifier="false">
+                                                               <Name BeginColumn="20" BeginLine="20" EndColumn="20" EndLine="20"
+                                                                     FindBoundary="false"
+                                                                     Image="n"
+                                                                     SingleLine="true"/>
+                                                            </PrimaryPrefix>
+                                                         </PrimaryExpression>
+                                                         <PrimaryExpression BeginColumn="25" BeginLine="20" EndColumn="26" EndLine="20"
+                                                                            FindBoundary="false"
+                                                                            Image=""
+                                                                            SingleLine="true">
+                                                            <PrimaryPrefix BeginColumn="25" BeginLine="20" EndColumn="26" EndLine="20"
+                                                                           FindBoundary="false"
+                                                                           Image=""
+                                                                           SingleLine="true"
+                                                                           SuperModifier="false"
+                                                                           ThisModifier="false">
+                                                               <Literal BeginColumn="25" BeginLine="20" CharLiteral="false" DoubleLiteral="false"
+                                                                        EndColumn="26"
+                                                                        EndLine="20"
+                                                                        EscapedStringLiteral="10"
+                                                                        FindBoundary="false"
+                                                                        FloatLiteral="false"
+                                                                        Image="10"
+                                                                        IntLiteral="true"
+                                                                        LongLiteral="false"
+                                                                        SingleCharacterStringLiteral="false"
+                                                                        SingleLine="true"
+                                                                        StringLiteral="false"
+                                                                        TextBlock="false"
+                                                                        TextBlockContent="10"
+                                                                        ValueAsDouble="NaN"
+                                                                        ValueAsFloat="NaN"
+                                                                        ValueAsInt="10"
+                                                                        ValueAsLong="10"/>
+                                                            </PrimaryPrefix>
+                                                         </PrimaryExpression>
+                                                      </RelationalExpression>
+                                                   </ConditionalAndExpression>
+                                                </Expression>
+                                                <Statement BeginColumn="1" BeginLine="21" EndColumn="20" EndLine="21" FindBoundary="false"
+                                                           Image=""
+                                                           SingleLine="true">
+                                                   <StatementExpression BeginColumn="1" BeginLine="21" EndColumn="19" EndLine="21" FindBoundary="false"
+                                                                        Image=""
+                                                                        SingleLine="true">
+                                                      <PrimaryExpression BeginColumn="1" BeginLine="21" EndColumn="1" EndLine="21" FindBoundary="false"
+                                                                         Image=""
+                                                                         SingleLine="true">
+                                                         <PrimaryPrefix BeginColumn="1" BeginLine="21" EndColumn="1" EndLine="21" FindBoundary="false"
+                                                                        Image=""
+                                                                        SingleLine="true"
+                                                                        SuperModifier="false"
+                                                                        ThisModifier="false">
+                                                            <Name BeginColumn="1" BeginLine="21" EndColumn="1" EndLine="21" FindBoundary="false"
+                                                                  Image="c"
+                                                                  SingleLine="true"/>
+                                                         </PrimaryPrefix>
+                                                      </PrimaryExpression>
+                                                      <AssignmentOperator BeginColumn="3" BeginLine="21" Compound="false" EndColumn="3" EndLine="21"
+                                                                          FindBoundary="false"
+                                                                          Image="="
+                                                                          SingleLine="true"/>
+                                                      <Expression BeginColumn="5" BeginLine="21" EndColumn="19" EndLine="21" FindBoundary="false"
+                                                                  Image=""
+                                                                  SingleLine="true"
+                                                                  StandAlonePrimitive="false">
+                                                         <PrimaryExpression BeginColumn="5" BeginLine="21" EndColumn="19" EndLine="21" FindBoundary="false"
+                                                                            Image=""
+                                                                            SingleLine="true">
+                                                            <PrimaryPrefix BeginColumn="5" BeginLine="21" EndColumn="19" EndLine="21" FindBoundary="false"
+                                                                           Image=""
+                                                                           SingleLine="true"
+                                                                           SuperModifier="false"
+                                                                           ThisModifier="false">
+                                                               <Literal BeginColumn="5" BeginLine="21" CharLiteral="false" DoubleLiteral="false"
+                                                                        EndColumn="19"
+                                                                        EndLine="21"
+                                                                        EscapedStringLiteral="&#34;Sobresaliente&#34;"
+                                                                        FindBoundary="false"
+                                                                        FloatLiteral="false"
+                                                                        Image="&#34;Sobresaliente&#34;"
+                                                                        IntLiteral="false"
+                                                                        LongLiteral="false"
+                                                                        SingleCharacterStringLiteral="false"
+                                                                        SingleLine="true"
+                                                                        StringLiteral="true"
+                                                                        TextBlock="false"
+                                                                        TextBlockContent="&#34;Sobresaliente&#34;"
+                                                                        ValueAsDouble="NaN"
+                                                                        ValueAsFloat="NaN"
+                                                                        ValueAsInt="0"
+                                                                        ValueAsLong="0"/>
+                                                            </PrimaryPrefix>
+                                                         </PrimaryExpression>
+                                                      </Expression>
+                                                   </StatementExpression>
+                                                </Statement>
+                                                <Statement BeginColumn="1" BeginLine="23" EndColumn="61" EndLine="23" FindBoundary="false"
+                                                           Image=""
+                                                           SingleLine="true">
+                                                   <StatementExpression BeginColumn="1" BeginLine="23" EndColumn="60" EndLine="23" FindBoundary="false"
+                                                                        Image=""
+                                                                        SingleLine="true">
+                                                      <PrimaryExpression BeginColumn="1" BeginLine="23" EndColumn="1" EndLine="23" FindBoundary="false"
+                                                                         Image=""
+                                                                         SingleLine="true">
+                                                         <PrimaryPrefix BeginColumn="1" BeginLine="23" EndColumn="1" EndLine="23" FindBoundary="false"
+                                                                        Image=""
+                                                                        SingleLine="true"
+                                                                        SuperModifier="false"
+                                                                        ThisModifier="false">
+                                                            <Name BeginColumn="1" BeginLine="23" EndColumn="1" EndLine="23" FindBoundary="false"
+                                                                  Image="c"
+                                                                  SingleLine="true"/>
+                                                         </PrimaryPrefix>
+                                                      </PrimaryExpression>
+                                                      <AssignmentOperator BeginColumn="3" BeginLine="23" Compound="false" EndColumn="3" EndLine="23"
+                                                                          FindBoundary="false"
+                                                                          Image="="
+                                                                          SingleLine="true"/>
+                                                      <Expression BeginColumn="5" BeginLine="23" EndColumn="60" EndLine="23" FindBoundary="false"
+                                                                  Image=""
+                                                                  SingleLine="true"
+                                                                  StandAlonePrimitive="false">
+                                                         <PrimaryExpression BeginColumn="5" BeginLine="23" EndColumn="60" EndLine="23" FindBoundary="false"
+                                                                            Image=""
+                                                                            SingleLine="true">
+                                                            <PrimaryPrefix BeginColumn="5" BeginLine="23" EndColumn="60" EndLine="23" FindBoundary="false"
+                                                                           Image=""
+                                                                           SingleLine="true"
+                                                                           SuperModifier="false"
+                                                                           ThisModifier="false">
+                                                               <Literal BeginColumn="5" BeginLine="23" CharLiteral="false" DoubleLiteral="false"
+                                                                        EndColumn="60"
+                                                                        EndLine="23"
+                                                                        EscapedStringLiteral="&#34;El valor de la calificación introducida no es correcta&#34;"
+                                                                        FindBoundary="false"
+                                                                        FloatLiteral="false"
+                                                                        Image="&#34;El valor de la calificación introducida no es correcta&#34;"
+                                                                        IntLiteral="false"
+                                                                        LongLiteral="false"
+                                                                        SingleCharacterStringLiteral="false"
+                                                                        SingleLine="true"
+                                                                        StringLiteral="true"
+                                                                        TextBlock="false"
+                                                                        TextBlockContent="&#34;El valor de la calificación introducida no es correcta&#34;"
+                                                                        ValueAsDouble="NaN"
+                                                                        ValueAsFloat="NaN"
+                                                                        ValueAsInt="0"
+                                                                        ValueAsLong="0"/>
+                                                            </PrimaryPrefix>
+                                                         </PrimaryExpression>
+                                                      </Expression>
+                                                   </StatementExpression>
+                                                </Statement>
+                                             </IfStatement>
+                                          </Statement>
+                                       </IfStatement>
+                                    </Statement>
+                                 </IfStatement>
+                              </Statement>
+                           </IfStatement>
+                        </Statement>
+                     </BlockStatement>
+                     <BlockStatement Allocation="false" BeginColumn="1" BeginLine="25" EndColumn="22" EndLine="25"
+                                     FindBoundary="false"
+                                     Image=""
+                                     SingleLine="true">
+                        <Statement BeginColumn="1" BeginLine="25" EndColumn="22" EndLine="25" FindBoundary="false"
+                                   Image=""
+                                   SingleLine="true">
+                           <StatementExpression BeginColumn="1" BeginLine="25" EndColumn="21" EndLine="25" FindBoundary="false"
+                                                Image=""
+                                                SingleLine="true">
+                              <PrimaryExpression BeginColumn="1" BeginLine="25" EndColumn="21" EndLine="25" FindBoundary="false"
+                                                 Image=""
+                                                 SingleLine="true">
+                                 <PrimaryPrefix BeginColumn="1" BeginLine="25" EndColumn="18" EndLine="25" FindBoundary="false"
+                                                Image=""
+                                                SingleLine="true"
+                                                SuperModifier="false"
+                                                ThisModifier="false">
+                                    <Name BeginColumn="1" BeginLine="25" EndColumn="18" EndLine="25" FindBoundary="false"
+                                          Image="System.out.println"
+                                          SingleLine="true"/>
+                                 </PrimaryPrefix>
+                                 <PrimarySuffix ArgumentCount="1" Arguments="true" ArrayDereference="false" BeginColumn="19"
+                                                BeginLine="25"
+                                                EndColumn="21"
+                                                EndLine="25"
+                                                FindBoundary="false"
+                                                Image=""
+                                                SingleLine="true">
+                                    <Arguments ArgumentCount="1" BeginColumn="19" BeginLine="25" EndColumn="21" EndLine="25"
+                                               FindBoundary="false"
+                                               Image=""
+                                               SingleLine="true"
+                                               Size="1">
+                                       <ArgumentList BeginColumn="20" BeginLine="25" EndColumn="20" EndLine="25"
+                                                     FindBoundary="false"
+                                                     Image=""
+                                                     SingleLine="true"
+                                                     Size="1">
+                                          <Expression BeginColumn="20" BeginLine="25" EndColumn="20" EndLine="25"
+                                                      FindBoundary="false"
+                                                      Image=""
+                                                      SingleLine="true"
+                                                      StandAlonePrimitive="false">
+                                             <PrimaryExpression BeginColumn="20" BeginLine="25" EndColumn="20" EndLine="25"
+                                                                FindBoundary="false"
+                                                                Image=""
+                                                                SingleLine="true">
+                                                <PrimaryPrefix BeginColumn="20" BeginLine="25" EndColumn="20" EndLine="25"
+                                                               FindBoundary="false"
+                                                               Image=""
+                                                               SingleLine="true"
+                                                               SuperModifier="false"
+                                                               ThisModifier="false">
+                                                   <Name BeginColumn="20" BeginLine="25" EndColumn="20" EndLine="25"
+                                                         FindBoundary="false"
+                                                         Image="c"
+                                                         SingleLine="true"/>
+                                                </PrimaryPrefix>
+                                             </PrimaryExpression>
+                                          </Expression>
+                                       </ArgumentList>
+                                    </Arguments>
+                                 </PrimarySuffix>
+                              </PrimaryExpression>
+                           </StatementExpression>
+                        </Statement>
+                     </BlockStatement>
+                     <BlockStatement Allocation="false" BeginColumn="1" BeginLine="26" EndColumn="15" EndLine="26"
+                                     FindBoundary="false"
+                                     Image=""
+                                     SingleLine="true">
+                        <Statement BeginColumn="1" BeginLine="26" EndColumn="15" EndLine="26" FindBoundary="false"
+                                   Image=""
+                                   SingleLine="true">
+                           <StatementExpression BeginColumn="1" BeginLine="26" EndColumn="14" EndLine="26" FindBoundary="false"
+                                                Image=""
+                                                SingleLine="true">
+                              <PrimaryExpression BeginColumn="1" BeginLine="26" EndColumn="14" EndLine="26" FindBoundary="false"
+                                                 Image=""
+                                                 SingleLine="true">
+                                 <PrimaryPrefix BeginColumn="1" BeginLine="26" EndColumn="12" EndLine="26" FindBoundary="false"
+                                                Image=""
+                                                SingleLine="true"
+                                                SuperModifier="false"
+                                                ThisModifier="false">
+                                    <Name BeginColumn="1" BeginLine="26" EndColumn="12" EndLine="26" FindBoundary="false"
+                                          Image="reader.close"
+                                          SingleLine="true"/>
+                                 </PrimaryPrefix>
+                                 <PrimarySuffix ArgumentCount="0" Arguments="true" ArrayDereference="false" BeginColumn="13"
+                                                BeginLine="26"
+                                                EndColumn="14"
+                                                EndLine="26"
+                                                FindBoundary="false"
+                                                Image=""
+                                                SingleLine="true">
+                                    <Arguments ArgumentCount="0" BeginColumn="13" BeginLine="26" EndColumn="14" EndLine="26"
+                                               FindBoundary="false"
+                                               Image=""
+                                               SingleLine="true"
+                                               Size="0"/>
+                                 </PrimarySuffix>
+                              </PrimaryExpression>
+                           </StatementExpression>
+                        </Statement>
+                     </BlockStatement>
+                  </Block>
+               </MethodDeclaration>
+            </ClassOrInterfaceBodyDeclaration>
+         </ClassOrInterfaceBody>
+      </ClassOrInterfaceDeclaration>
+   </TypeDeclaration>
+</CompilationUnit>
