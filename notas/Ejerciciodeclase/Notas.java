@@ -13,7 +13,7 @@ int n = 0;
 String c = "";
 System.out.println("Introduzca el valor de una calificación: ");
 n = reader.nextInt();
-c= califica(n);
+c= califica.califica(n); //Llamamos al metodo.
 System.out.println(c);
 reader.close();
 	}

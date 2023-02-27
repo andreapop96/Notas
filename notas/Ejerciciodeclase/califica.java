@@ -17,4 +17,3 @@ public class califica {
 		return c;
 			}
 	}
-
