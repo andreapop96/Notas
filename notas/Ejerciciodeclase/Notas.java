@@ -1,4 +1,4 @@
-package notas;
+package Ejerciciodeclase;
 
 import java.util.Scanner;
 
